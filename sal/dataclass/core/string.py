@@ -1,5 +1,3 @@
-import numpy as np
-
 from sal.core.object import DataObject, DataSummary, dataclass
 
 # TODO: add tests
