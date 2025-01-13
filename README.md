@@ -23,6 +23,12 @@ To install SAL for normal use, please use the release version on pypi.org. This 
 pip install sal
 ```
 
+To install SAL with LDAP and server support from pypi:
+
+```bash
+pip install sal[LDAP, server]
+```
+
 Contributing
 ------------
 
